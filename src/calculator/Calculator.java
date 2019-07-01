@@ -30,6 +30,11 @@ public class Calculator {
  
        return a*b;
    }
+   
+   public static int percent(int a,int b){
+ 
+       return a*b;
+   }
     public static void main(String[] args) {
         
         System.out.println("Addition of two nubers are = "+add(10,12));
